@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    padding: 20px 40px;
+    background-color: #aa666685;
+}
+.header_logo {
+    width: 40px;
+    height: 40px;
+}
+.header_title {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    align-self: center;
+}
+
+
